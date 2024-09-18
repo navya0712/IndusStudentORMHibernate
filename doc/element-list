@@ -1,0 +1,5 @@
+com.indus.training.persist.dao
+com.indus.training.persist.entity
+com.indus.training.persist.Exceptions
+com.indus.training.persist.impl
+com.indus.training.persist.util

@@ -1,0 +1,5 @@
+2024-09-04 22:00:24,455 INFO c.i.t.p.i.StudentDaoImpl [main] Student with ID 1030 deleted Successfully
+2024-09-04 22:00:56,355 INFO c.i.t.p.i.StudentDaoImpl [main] Student lastName with ID 1023 Updated Successfully
+2024-09-04 22:00:56,363 INFO c.i.t.p.i.StudentDaoImpl [main] Student firstName with ID 1023 Updated Successfully
+2024-09-04 22:00:56,389 INFO c.i.t.p.i.StudentDaoImpl [main] Student inserted successfully with ID 1029
+2024-09-04 22:00:56,397 INFO c.i.t.p.i.StudentDaoImpl [main] Student with ID 1029 deleted Successfully
